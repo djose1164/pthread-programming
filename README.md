@@ -1,1 +1,1 @@
-# ptread-programming
+# pthread-programming
